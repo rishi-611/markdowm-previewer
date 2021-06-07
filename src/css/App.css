@@ -1,0 +1,10 @@
+html,
+#root {
+  background: rgb(255, 120, 24);
+  background: linear-gradient(
+    45deg,
+    rgba(255, 120, 24, 1) 0%,
+    rgba(255, 184, 70, 1) 85%,
+    rgba(246, 228, 136, 1) 100%
+  );
+}
